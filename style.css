@@ -1,0 +1,120 @@
+body{
+	height: 3000px;
+	margin: 0;
+}
+a:hover{
+	color: #000000;
+  background: #C0C0C0;
+}
+.p-0{
+	padding-right: 100px;
+}
+#headerwrap{
+	background: url(img/5230452370_925b9b4d8c_o.jpg) no-repeat center top ; 
+	padding-top: 20px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 550px;
+	width: 100%; 
+	padding-top: 150px;
+}
+#headerwrap>.container> .rowcentered >.col-lg-12{
+	color: white;
+	text-align: center;
+}
+#headerwrap>.container> .rowcentered >.col-lg-12>h1{
+	font-size: 75px;
+	font-family: 'Archivo Black', sans-serif;
+}
+.justify{
+	margin-top: 100px;
+	margin-right:20px; 
+	font-size: 20px;
+	font-weight: bold;
+}
+.projects{
+	text-align: center;
+	margin:20px;   
+}
+.Portfolio-1{
+	background: url(img/1.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.Portfolio-2{
+	background:  url(img/2.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.Portfolio-3{
+	background:  url(img/3.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.Portfolio-4{
+	background:  url(img/4.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.Portfolio-5{
+	background:  url(img/5.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.Portfolio-6{
+	background:  url(img/6.jpg) no-repeat;
+	min-height: 250px;
+	text-align: center;
+}
+.text1{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+.text2{
+	font-family: 'Archivo+Black', sans-serif;
+  font-size: 20px;
+}
+.name-member-1{
+	text-align: center;
+	margin: 20px;
+}
+.member-2{
+	left: 280px;
+}
+.member-1-description{
+	left: 30px;
+	border: 1px solid #000;
+	margin: 10px;
+	border-radius: 50px;
+}
+.member-2-description{
+	left: 250px;
+	text-align: right;
+	border: 1px solid #000;
+	margin: 10px;
+	border-radius: 50px;
+}
+.member-3-description{
+	left: 30px;
+	border: 1px solid #000;
+	margin: 10px;
+	border-radius: 50px;
+}
+.fas{
+	font-size: 30px;
+}
+.Phone-text{
+	font-size:20px;
+	margin: 20px;
+}
+.far{
+	font-size: 20px;
+}
+.fab{
+left: 200px;
+}
+.footer{
+	text-align:center; 
+}
